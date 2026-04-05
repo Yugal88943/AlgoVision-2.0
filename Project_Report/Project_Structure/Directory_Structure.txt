@@ -1,0 +1,48 @@
+AlgoVision/
+│
+├── Main.java
+├── ui/
+│   └── Dashboard.java
+│
+├── model/
+│   ├── FoodItem.java
+│   ├── User.java
+│   └── Order.java
+│
+├── data/
+│   └── DataStore.java
+│
+├── ingestion/
+│   └── OrderQueue.java
+│
+├── catalog/
+│   └── FoodCatalog.java
+│
+├── search/
+│   ├── BST.java
+│   └── BSTNode.java
+│
+├── optimizer/
+│   └── GreedyOptimizer.java
+│
+├── graph/
+│   └── Graph.java
+│
+├── io/
+│   └── FileManager.java
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+| Folder    | Purpose                      |
+| --------- | ---------------------------- |
+| model     | Data (User, Order, Food)     |
+| ingestion | Queue (orders coming in)     |
+| catalog   | Store items (Array)          |
+| search    | BST search                   |
+| optimizer | Greedy logic                 |
+| graph     | Delivery routes              |
+| data      | Hashing (store users/orders) |
+| util      | Print/output                 |
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

@@ -1,0 +1,20 @@
+1,Pizza,300,Veg
+2,Burger,150,Veg
+3,Pasta,250,Veg
+4,Sandwich,120,Veg
+5,Fries,100,Veg
+6,Cold Coffee,180,Drinks
+7,Paneer Tikka,280,Veg
+8,Chicken Biryani,350,NonVeg
+9,Veg Biryani,300,Veg
+10,Noodles,200,Veg
+11,Manchurian,220,Veg
+12,Dosa,130,Veg
+13,Idli,80,Veg
+14,Ice Cream,90,Drinks
+15,Chocolate Shake,160,Drinks
+16,Spring Rolls,210,Veg
+17,Garlic Bread,140,Veg
+18,Cheese Balls,170,Veg
+19,Momos,110,Veg
+20,Hot Dog,190,NonVeg
