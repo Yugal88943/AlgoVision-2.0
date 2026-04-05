@@ -101,7 +101,7 @@ This project simulates systems used in:
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AlgoVision-2.0.git
+git clone https://github.com/Yugal88943/AlgoVision-2.0
 ```
 
 ---
